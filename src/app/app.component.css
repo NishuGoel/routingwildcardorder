@@ -1,0 +1,13 @@
+.content-overview {
+    margin-top : 50px;
+    background: orange;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    margin: 126px auto 32px;
+    max-width: 800px;
+  }
+  .inner-style {
+    padding: 24px;
+  }
